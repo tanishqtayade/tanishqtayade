@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently enrolled in Btech Electronics and communication engineering branch in indian institute of information technology Allahabad .<br>I am in 4th sem now.<br>I have learned web developement and machine learning and now I am going to learn deep learning.<br>I have internship in AI domain by microsoft mentors by eduxpose. <br>I have 7.92 gpa at the end of 3rd semester.<br>
+<br>
 
 
 ## 🌐 Socials:
