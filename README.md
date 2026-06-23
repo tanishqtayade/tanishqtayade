@@ -1,5 +1,9 @@
 # 💫 About Me:
 <br>
+Hi, I'm Tanishq Student at Indian Institute of Information Technology Allahabad, Electronics and Communication Engineering (entering 5th semester).
+Open source contributor to Scrapy (55k+ stars) — fixed a Python closure bug in the signal handler system, merged into master.
+Interested in Python, C/C++, GPU computing, and systems programming. Working toward GSoC 2027.
+Always open to collaborating on open source projects.
 
 
 ## 🌐 Socials:
