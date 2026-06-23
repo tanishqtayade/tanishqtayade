@@ -5,7 +5,7 @@ Open source contributor to Scrapy (55k+ stars) — fixed a Python closure bug in
 Interested in Python, C/C++, GPU computing, and systems programming. Working toward GSoC 2027.
 Always open to collaborating on open source projects.
 
-
+[![Scrapy Contributor](https://img.shields.io/badge/Scrapy-Contributor-green?style=for-the-badge&logo=python&logoColor=white)](https://github.com/scrapy/scrapy/pull/7649)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanishqtayade2024) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishqtayade2006@gmail.com) 
 
